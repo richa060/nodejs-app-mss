@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "echoehttp://43.204.25.115:9980/Richatechnologies/repository/nodejs-repo-rs/"
+    "registry": "http://43.204.25.115:9980/Richatechnologies/repository/nodejs-repo-rs/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
